@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* background: url(back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: rgb(44, 175, 175);
+}
+.container{
+  background: black;
+  opacity: 0.5;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#ipt{
+  position: relative;
+  bottom: 13%;
+  left: 4%;
+  width: 70%;
+  text-align: center;
+}
+#btn{
+  position: relative;
+  top: 22%;
+  right: 35%;
+}
+.dropdown{
+  margin-left: 45%;
+}
